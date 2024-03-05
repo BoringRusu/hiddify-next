@@ -17,7 +17,8 @@
         "decline": "衰退",
         "unknown": "未知",
         "hidden": "隐藏",
-        "timeout": "超时"
+        "timeout": "超时",
+        "clipboardExportSuccessMsg": "已粘贴到剪切板"
     },
     "intro": {
         "termsAndPolicyCaution(rich)": "继续即表示您同意 ${tap(@:about.termsAndConditions)}",
@@ -166,6 +167,10 @@
         "requiresRestartMsg": "要使其生效，请重新启动应用程序",
         "experimental": "实验性选项",
         "experimentalMsg": "带有实验标志的功能仍在开发中，可能会出现问题。",
+        "exportOptions": "导出到剪切板选项",
+        "exportAllOptions": "导出到剪切板选项（测试）",
+        "importOptions": "从剪切板导入选项",
+        "importOptionsMsg": "这将使用提供的值重写所有配置选项，您确定吗？",
         "general": {
             "sectionTitle": "一般选项",
             "locale": "语言",
@@ -220,6 +225,8 @@
         },
         "config": {
             "resetBtn": "重置选项",
+            "reconnectMsg": "请重连以使所有改动生效",
+            "reconnectBtn": "重新连接",
             "serviceMode": "服务模式",
             "serviceModes": {
                 "proxy": "仅代理",
